@@ -29,5 +29,4 @@ React.JS: Framework used for building the user interface.
 HTML5 & CSS3: To create a responsive and attractive design.
 JavaScript (ES6+): For dynamic functionality and logic.
 
-License
 This project is licensed under the MIT License. See the LICENSE (https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for more information.
