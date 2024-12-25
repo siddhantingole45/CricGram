@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CricGram/static/css/main.17383221.css",
-    "main.js": "/CricGram/static/js/main.6e24f039.js",
+    "main.js": "/CricGram/static/js/main.2120d911.js",
     "index.html": "/CricGram/index.html",
     "main.17383221.css.map": "/CricGram/static/css/main.17383221.css.map",
-    "main.6e24f039.js.map": "/CricGram/static/js/main.6e24f039.js.map"
+    "main.2120d911.js.map": "/CricGram/static/js/main.2120d911.js.map"
   },
   "entrypoints": [
     "static/css/main.17383221.css",
-    "static/js/main.6e24f039.js"
+    "static/js/main.2120d911.js"
   ]
 }
